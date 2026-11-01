@@ -1,1 +1,1 @@
-# R25EF283
+Hi, my name is Syed Usman. I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE). This repository is created to store my academic work, programming practice, projects, and experiments with different technologies while improving my technical and problem-solving skills.
